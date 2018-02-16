@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="title">Vintage Bicycle</string>
+    <string name="subtitle">Colors</string>
+    <string name="cart">Add to Cart</string>
+    <string name="cart_pressed">Added to cart</string>
+    <string name="like">+1 to Vintage Bicycle</string>
+    <string name="ready">Is already added to cart</string>
+
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="x_large">XL</string>
+    <string name="desc_title">DESCRIPTION</string>
+    <string name="description">A bicycle, also called a cycle or bike, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame,
+                                one behind the other. A bicycle rider is called a cyclist, or bicyclist.</string>
+
+    <string name="measu_title">MEASUREMENT</string>
+    <string name="measurement">The classic style road bike frame is most commonly found on road, racing, touring, and commuting bikes. The top tube is parallel to the road,
+                                 giving the frame more stability and support. The frame size is determined by measuring the length of the seat tube, in centimeters.
+                                 The instructions below explain how to measure a classic road bike.</string>
+</resources>

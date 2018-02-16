@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Title">30sp</dimen>
+    <dimen name="subtitle">22sp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="radios">5dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="button">15dp</dimen>
+    <dimen name="button_size">50dp</dimen>
+    <dimen name="border_size">2dp</dimen>
+    <dimen name="image">220dp</dimen>
+    <dimen name="cart">40dp</dimen>
+
+    
+</resources>
