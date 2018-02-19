@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exámen de Prueba</string>
+    <string name="title">Bicicleta Vintage </string>
+    <string name="subtitle">Colores</string>
+    <string name="cart">Añadir al carrito</string>
+    <string name="cart_pressed">Añadido al carrito</string>
+    <string name="like">+1 a Bicicleta Vintage </string>
+    <string name="ready">Ya esta añadido en el carrito</string>
+
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="x_large">XL</string>
+    <string name="desc_title">DESCRIPCIÓN</string>
+    <string name="description">Una bicicleta,es implusado por el hombre, manejado por pedale y de una sola pieza, teniendo dos llantas junto al cuadro una por delante y otra por detrás.
+                                Quien usa una bicicleta se le dice ciclitsa o bicicletista.</string>
+
+    <string name="measu_title">MEDIDAS</string>
+    <string name="measurement">Para la bicicleta de montaña multiplicamos la medida de la entrepierna por 0,21 y el resultado será la medida exacta de talla de bici que necesitas en pulgadas.
+        En el caso de bicicleta de carretera multiplicaremos la medida de la entrepierna por 0,65 y el resultado será la talla en centímetros de la bicicleta.</string>
+</resources>
